@@ -313,11 +313,11 @@ For each microservice (orders, inventory, billing):
   * per-service and end-to-end views
   * RED metrics for `orders`, `inventory`, `billing`
 * Traces show the full call chain:
-  `orders-service → inventory-service → billing-service`
-```
+  orders-service → inventory-service → billing-service
+
 This simple scenario demonstrates how the **same GitOps and observability patterns** can be applied consistently across a fleet of microservices.
 
-```
+
  
 
 # 💡 Contributing
