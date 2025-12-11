@@ -1,11 +1,7 @@
-Ecco la **versione migliorata, più concettuale, più professionale e in inglese semplificato**, ottimizzata per GitHub, recruiter e architetti enterprise.
-Ho ristrutturato i concetti per renderli più chiari, credibili e “industry-ready”.
-
----
-
+ 
 # 🚀 Enterprise Microservices GitOps Framework
 
-**Author:** *Your Name / Username*
+**Author:** *Stefano Giacchi*
 **Goal:** Provide a complete, scalable and secure GitOps-driven framework for building, versioning, deploying and operating enterprise microservices on Kubernetes.
 
 ---
